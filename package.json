@@ -6,7 +6,7 @@
   "dependencies": {
     "bcrypt": "^3.0.6",
     "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "moment": "^2.22.1",
     "nodemailer": "^4.6.2",
     "sequelize": "^4.35.2",
